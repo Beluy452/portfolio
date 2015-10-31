@@ -1,0 +1,148 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+ 
+}
+@media only screen and (max-width : 1140px) {
+	#menu {
+		left: 33% !important;
+	}
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+ #menu {
+		left: 32% !important;
+	}
+}
+@media only screen and (max-width : 890px) {
+ #menu {
+		left: 30% !important;
+	}
+}
+
+@media only screen and (max-width : 800px) {
+ #menu {
+		left: 27% !important;
+	}
+}
+@media only screen and (max-width : 720px) {
+ #menu {
+		left: 26% !important;
+	}
+}
+@media only screen and (max-width : 610px) {
+ #menu {
+		left: 20% !important;
+	}
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	
+    
+}
+@media only screen and (max-width : 765px) {
+  	
+  
+}
+@media only screen and (max-width : 566px) {
+	#menu {
+	width: 400px !important;
+	}
+}
+@media only screen and (max-width : 570px) {
+	.button {
+	 margin-right: 35px !important;
+	}
+	.text_blok {
+  float: left;
+  text-align: center;
+}
+	.me_foto {
+  margin-top: 25px !important;
+}
+	.me_foto img {
+  padding-left: 200px !important;
+}
+	.container_about_me {
+  padding-bottom: 15px !important;
+}
+	.sotcial_blok {
+	padding-top: 15px !important;
+	margin: 0 !important;
+	float: left !important;
+	margin-left: 20px !important; 
+	}
+	.container_get h1 {
+		margin-left: 20px !important;
+	}
+	.container_get h3 {
+		margin-left: 20px !important;
+	}
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 500px) {
+	#menu {
+	width: 370px !important;
+	}
+	.me_foto img {
+ padding-left: 150px !important;
+}
+	.sotcial_blok {
+	padding-top: 15px !important;
+	margin: 0 !important;
+	float: left !important;
+	margin-left: 20px !important; 
+	}
+	.container_about_me {
+  padding-bottom: 15px !important;
+}
+	.container_get button {
+		margin: 10px 75px !important;
+	}
+	.container_get h1 {
+		margin-left: 20px !important;
+	}
+	.container_get h3 {
+		margin-left: 20px !important;
+	}
+	.border_left {
+		border: none !important;
+	}
+	.border_right {
+		border: none !important;
+	}
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}

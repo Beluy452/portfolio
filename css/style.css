@@ -1,0 +1,221 @@
+a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 14px;
+}
+#wrapper {
+
+}
+#header {
+	position: relative;
+ background-color: #323232;
+ height: 76px;
+	text-align: center;
+}
+#header img {
+	margin-left: 30px;
+	margin-top: 15px;
+}
+#menu {
+	position: absolute;
+	top: 33px;
+ left: 36%;
+ width: 440px;
+	font-family: "Lato-Bold";
+}
+#menu ul li {
+	float: left;
+	margin-right: 40px;
+}
+#menu ul li a:hover {
+	color: #2eb398;
+}
+#right_menu {
+	float: right;
+}
+
+#top_line {
+	padding-top: 10px;
+}
+.left_line {
+	float: left;
+	width: 47%;
+	border-top: 1px solid #e4e9eb;
+}
+.right_line {
+	float: right;
+	width: 44%;
+	border-top: 1px solid #e4e9eb;
+}
+
+#portfolio {
+	margin-top: 63px;
+}
+.foto_blok_top {
+	max-width: 900px;
+ margin: 0 auto;
+}
+.foto_blok_top img {
+	 width: 24.3%;
+		float: left;
+}
+.foto_blok_middle {
+	 max-width: 1145px;
+  margin: 0px auto;
+}
+.foto_blok_middle img {
+	 width: 19%;
+}
+.foto_blok_bottom {
+		max-width: 900px;
+ margin: 0 auto;
+}
+.foto_blok_bottom img {
+	 width: 24.3%;
+}
+.border_bot {
+ background: #e4e9eb;
+ height: 1px;
+ margin-bottom: 12px;
+ margin-top: 80px;
+}
+.border_left{
+	border-left: 1px solid #e4e9eb;
+}
+.border_right{
+	border-right: 1px solid #e4e9eb;
+}
+
+#about_me {
+	background-color: #2eb398;
+}
+.container_about_me {
+	max-width: 900px;
+	margin: 0 auto;
+	padding-bottom: 65px;
+	overflow: hidden;
+	border-left: 1px solid #219d84;
+ border-right: 1px solid #219d84;
+}
+.me_foto {
+	margin-top: 66px;
+}
+.me_foto img {
+	float: left;
+	display: block;
+/*	border-left: 1px solid #219d84;*/
+ padding-left: 20px;
+	padding-right: 16px;
+}
+.text_blok {
+	max-width: 870px;
+}
+.text_blok h1 {
+ color: #d7fcf5;
+ font-size: 30px;
+	font-family: "MavenPro-Regular";
+}
+.text_blok h3 {
+	color: #20816d;
+ font-size: 18px;
+	line-height: 1.5;
+	font-family: "MavenPro-Regular";
+}
+.text_blok p {
+	padding-top: 10px;
+	line-height: 21px;
+ font-size: 13px;
+ color: #fff;
+	font-family: "Lato-Regular";
+}
+.sotcial_blok {
+	float: right;
+ width: 200px;
+	margin-top: 40px;
+}
+#get_in_touch {
+	background-color: #323232;
+}
+.container_get {
+	max-width: 900px;
+	padding-top: 55px;
+	padding-bottom: 50px;
+ margin: 0 auto;
+	color: #e0e0e0;
+	overflow: hidden;
+}
+.container_get form {
+	float: left;
+}
+.container_get button {
+	float: right;
+	padding: 12px 30px;
+ border: none;
+ background-color: #2eb398;
+ color: #fff;
+ text-transform: uppercase;
+ margin-top: 15px;
+	font-family: "Lato-Bold";
+}
+.container_get h1{
+ font-size: 30px;
+	font-family: "MavenPro-Regular";
+}
+.container_get h3 {
+	font-size: 18px;
+ line-height: 2;
+ padding-bottom: 25px;
+	color: #bebebe;
+	font-family: "MavenPro-Regular";
+}
+.container_get input {
+	width: 565px;
+	height: 40px;
+	background-color: #454545;
+	border: none;
+ padding-left: 15px;
+}
+.container_get form textarea {
+ background-color: #454545;
+ border: none;
+ width: 565px;
+ color: #ABA9A9;
+ padding-left: 15px;
+}
+.text_get {
+	max-width: 212px;
+ float: left;
+	padding-left: 20px;
+	color: #bebebe;
+	font-family: "Lato-Regular";
+}
+.text_get p {
+ line-height: 1.5;
+ padding-bottom: 30px;
+	font-size: 14px;
+}
+.text_get b {
+	font-weight: bold;
+}
+.text_get a {
+	color: #bebebe;
+	display: block;
+}
+.text_get span {
+ display: block;
+	font-family: "Lato-Bold";
+}
+.text_get img {
+	float: left;
+	padding-right: 10px;
+ padding-top: 5px;
+}
+
+#copyright {
+	background-color: #222222;
+	padding: 15px;
+}
+#copyright h1 {
+	color: #3c3c3c;
+	font-family: "MavenPro-Regular";
+}
